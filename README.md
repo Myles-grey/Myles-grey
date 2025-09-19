@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Myles-grey
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL,Python, Power BI and Tableau
+- 👋 Hi, I’m @Henry_Obuobisah
+- 👀 I’m an Analytics student at ALX
+- 🌱 I’m currently learning SQL,Python, Power BI and Excel
 - 💞️ I’m looking to collaborate on any project related to Data Analytics
 - 📫 How to reach me https://wa.link/b3wyhn
 - 😄 Pronouns: HE/HIM
